@@ -71,8 +71,8 @@ ls -l percobaan.txt
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil](screenshots/linux_fs.png)
-![Screenshot hasil](screenshots/linux_fs_2.png)
+![screenshot hasil](./screenshots/linux_fs.png)
+![screenshot hasil](./screenshots/linux_fs_2.png)
 
  Pada percobaan ini menggunakan beberapa perintah Linux untuk mengelola file dan izin aksesnya.
 Perintah `mkdir` berfungsi untuk membuat direktori baru, dan hasilnya bisa terlihat bahwa folder praktikum berhasil terbentuk.
