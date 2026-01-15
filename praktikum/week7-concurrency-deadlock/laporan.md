@@ -9,7 +9,7 @@ Topik: Sinkronisasi Proses dan Masalah Deadlock
 |------------------|---------------------------|------------------|------------------|
 |Muhamad Juhan| 250202953|1IKRB| (Ketua) Implementasi |
 |virli A'inun Subroto | 250202913|1IKRB| Dokumentasi |
-|Syafi'iyah Rahmadani | 250202913|1IKRB| Analisis |
+|Syafi'iyah Rahmadani | 250202968|1IKRB| Analisis |
 
 ---
 
