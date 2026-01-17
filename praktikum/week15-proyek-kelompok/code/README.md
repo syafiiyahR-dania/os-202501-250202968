@@ -2,7 +2,7 @@
 
 Tugas ini mengimplementasikan algoritma **First-Come, First-Served (FCFS)** untuk mensimulasikan antrian kasir di supermarket. Program akan menghitung waktu tunggu (*Waiting Time*) dan total waktu pelayanan (*Turnaround Time*) berdasarkan urutan kedatangan pelanggan.
 
-## 📊 Data Pelanggan
+##  Data Pelanggan
 Program menggunakan dataset sesuai studi kasus berikut:
 
 | Pelanggan | Waktu Kedatangan | Waktu Pelayanan |
@@ -15,7 +15,7 @@ Program menggunakan dataset sesuai studi kasus berikut:
 
 ---
 
-## 🚀 Cara Menjalankan Program (Manual)
+##  Cara Menjalankan Program (Manual)
 
 Jika Anda ingin menjalankan program langsung menggunakan Python di komputer Anda:
 
@@ -24,4 +24,5 @@ Jika Anda ingin menjalankan program langsung menggunakan Python di komputer Anda
 3. **Buka Terminal/CMD**, lalu masuk ke direktori tersebut.
 4. **Jalankan Perintah**:
    ```bash
+
    python main.py
